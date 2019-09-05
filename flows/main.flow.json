@@ -1,0 +1,66 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'intro'",
+          "node": "Greetings"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-EcC-r8"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "58a637911b",
+      "name": "none_message",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-iVBzXn"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "a2babd7178",
+      "name": "Greetings",
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'cpu-check'",
+          "node": "node-6cca"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-qW0M0x"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "fa10a22a46",
+      "name": "node-6cca",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-H_FHVw"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "cbf26fddae",
+      "name": "node-625b",
+      "next": [],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "intro",
+  "utterances": {
+    "en": [
+      "Hi I am here to help",
+      "Hi! nice to meet you!",
+      "I am fine",
+      "Hello",
+      "Hi"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

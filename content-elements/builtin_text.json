@@ -1,0 +1,59 @@
+[
+  {
+    "id": "builtin_text-iVBzXn",
+    "formData": {
+      "text$en": "Sorry. I do not understand",
+      "typing$en": true,
+      "variations$en": [
+        "I am still learning",
+        ""
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-07-01T18:28:03.566Z",
+    "modifiedOn": "2019-09-03T20:35:20.532Z"
+  },
+  {
+    "id": "builtin_text-qW0M0x",
+    "formData": {
+      "text$en": "You want to know the cpu health?",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-04T19:27:48.268Z",
+    "modifiedOn": "2019-09-05T04:37:09.438Z"
+  },
+  {
+    "id": "builtin_text-H_FHVw",
+    "formData": {
+      "text$en": "Please give me a moment while I calculate the data",
+      "variations$en": [
+        ""
+      ],
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-04T21:01:32.010Z",
+    "modifiedOn": "2019-09-04T21:01:32.010Z"
+  },
+  {
+    "id": "builtin_text-z8EQJf",
+    "formData": {
+      "text$en": "What else can I do for you?",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-04T21:03:52.545Z",
+    "modifiedOn": "2019-09-04T21:03:52.545Z"
+  },
+  {
+    "id": "builtin_text-EcC-r8",
+    "formData": {
+      "text$en": "what can i do for you?",
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-05T04:40:55.668Z",
+    "modifiedOn": "2019-09-05T04:40:55.668Z"
+  }
+]

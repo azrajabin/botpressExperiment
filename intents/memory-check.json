@@ -1,0 +1,20 @@
+{
+  "name": "memory-check",
+  "utterances": {
+    "en": [
+      "memory consumption?",
+      "Which process is consuming most memory?",
+      "which app is using the highest memory?",
+      "how much memory left?",
+      "Help my optimise the memory usage?",
+      "Is my memory usage too high?",
+      "How much memory is being used my the system",
+      "How much memory is being consumed?",
+      "memory-check"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

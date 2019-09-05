@@ -1,0 +1,16 @@
+{
+  "sensitive": false,
+  "fuzzy": true,
+  "name": "test",
+  "type": "list",
+  "occurences": [
+    {
+      "name": "cpu-check",
+      "synonyms": [
+        "cpu",
+        "processing unit"
+      ]
+    }
+  ],
+  "pattern": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cpu-check",
+  "utterances": {
+    "en": [
+      "Please tell me the current CPU usage",
+      "cpu status",
+      "How is my cpu health",
+      "cpu check"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
